@@ -27,7 +27,7 @@ To install, download or clone this repo, then run:
 `npm install`
 
 
-## Implementing Zokrates
+## Implementing Zokrates (macOS)
 1. **To initiate development environment, run Zokrates Docker**
     ```
     cd <path to project folder>/zokrates/code
@@ -90,6 +90,29 @@ Verifier         |[0xf928929e17e210F31D4412bab023e6dfa7386052](https://rinkeby.e
 SolnSquareVerifier |[0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941](https://rinkeby.etherscan.io/address/0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941)
 
 
+## SolnSquareVerifier Contract ABI
+[Contract ABI](/eth-contracts/contract-abi.json)
+
+## Minting 5 Tokens
+
+`5 OSNFP (OpenSea Non-Fungible Propertie)` tokens were minted by using myetherwallet to interact with the contract: [https://www.myetherwallet.com/interface/interact-with-contract](https://www.myetherwallet.com/interface/interact-with-contract)
+
+![Minting](/screens/minting.png)
+
+Minted 5 tokens (OSNFP) on Rinkeby testnet: 
+[https://rinkeby.etherscan.io/token/0x426ec69c48a94268f8b7ddbae7cca6d6c450c941](https://rinkeby.etherscan.io/token/0x426ec69c48a94268f8b7ddbae7cca6d6c450c941)
+
+
+## OpenSea MarketPlace Storefront
+[OpenSea MarketPlace Storefront](https://testnets.opensea.io/collection/opensea-non-fungible-properties)
+
+![OpenSea Storefront](/screens/opensea-storefront.png)
+
+
+## Selling and Buying OSNFP Tokens on OpenSea MarketPlace
+See below the transactions/trading history for Luxury home ERC721 token.
+
+![Transactions History](/screens/transactions-history.png)
 
 # Project Resources
 
