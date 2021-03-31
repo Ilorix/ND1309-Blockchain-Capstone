@@ -86,8 +86,8 @@ Contract addresses on Rinkeby Network:
 Contract Name      | Contract Address
 ------------ | -------------
 Migrations             |[0x13E56577686Abd4d409c98e8282Dad6199435529](https://rinkeby.etherscan.io/address/0x13e56577686abd4d409c98e8282dad6199435529/)
-Verifier         |(https://rinkeby.etherscan.io/address/0xf928929e17e210F31D4412bab023e6dfa7386052)
-SolnSquareVerifier |(https://rinkeby.etherscan.io/address/0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941)
+Verifier         |[0xf928929e17e210F31D4412bab023e6dfa7386052](https://rinkeby.etherscan.io/address/0xf928929e17e210F31D4412bab023e6dfa7386052)
+SolnSquareVerifier |[0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941](https://rinkeby.etherscan.io/address/0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941)
 
 
 
