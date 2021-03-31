@@ -40,11 +40,11 @@ To install, download or clone this repo, then run:
 
     zokrates compile -i square/square.code
     ```
-3. **Generate the Trusted Setup**
+3. **Generate the trusted setup**
     ```
     zokrates setup
     ```
-4. **Compute Witness**
+4. **Compute witness**
     ```
     zokrates compute-witness -a 7 49
     ```
@@ -93,13 +93,13 @@ SolnSquareVerifier |[0x426Ec69c48A94268F8b7dDbAe7cCa6d6c450C941](https://rinkeby
 ## SolnSquareVerifier Contract ABI
 [Contract ABI](/eth-contracts/contract-abi.json)
 
-## Minting 5 Tokens
+## Minting Tokens
 
-`5 OSNFP (OpenSea Non-Fungible Propertie)` tokens were minted by using myetherwallet to interact with the contract: [https://www.myetherwallet.com/interface/interact-with-contract](https://www.myetherwallet.com/interface/interact-with-contract)
+`5 OSNFP (OpenSea Non-Fungible Properties)` tokens were minted by using myetherwallet by interacting with the contract: [https://www.myetherwallet.com/interface/interact-with-contract](https://www.myetherwallet.com/interface/interact-with-contract)
 
 ![Minting](/screens/minting.png)
 
-Minted 5 tokens (OSNFP) on Rinkeby testnet: 
+Here are these minted 5 OSNFP tokens on Rinkeby testnet: 
 [https://rinkeby.etherscan.io/token/0x426ec69c48a94268f8b7ddbae7cca6d6c450c941](https://rinkeby.etherscan.io/token/0x426ec69c48a94268f8b7ddbae7cca6d6c450c941)
 
 
@@ -110,7 +110,7 @@ Minted 5 tokens (OSNFP) on Rinkeby testnet:
 
 
 ## Selling and Buying OSNFP Tokens on OpenSea MarketPlace
-See below the transactions/trading history for Luxury home ERC721 token.
+See below the transactions/trading history for Luxury Home ERC721 token.
 
 ![Transactions History](/screens/transactions-history.png)
 
